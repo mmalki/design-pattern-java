@@ -12,9 +12,7 @@ import com.software.mq.Runner;
 @EnableScheduling
 public class Application {
 	
-  
-	
-	
+
 	
 	    @Bean
 	    public CommandLineRunner tutorial() {
